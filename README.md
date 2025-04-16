@@ -32,7 +32,8 @@ Remote Access Trojan is a lightweight Remote Access Tool (RAT) built in Python, 
 ## Installation
 
 ### Clone the repository:
-```bash
+bash
+```
 git clone https://github.com/YourUsername/Remote-Access-Trojan.git
 cd Remote-Access-Trojan
 ```
