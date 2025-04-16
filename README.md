@@ -60,5 +60,6 @@ Network Monitoring: Set up IDS/IPS systems to flag unusual or unauthorized TCP c
 Software Restriction Policies: Block script interpreters (e.g., Python) in non-dev environments using Group Policy or AppLocker.
 
 Email Filtering & Sandboxing: Detect and quarantine potential malware before it reaches the user.
-
+‎ 
+‎ 
 > This project was created to better understand remote access threats and how to defend against them. Use it responsibly and ethically.
