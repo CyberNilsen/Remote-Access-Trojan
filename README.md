@@ -38,13 +38,13 @@ git clone https://github.com/YourUsername/Remote-Access-Trojan.git
 cd Remote-Access-Trojan
 ```
 
-##⚠️ Legal Disclaimer
+## ⚠️Legal Disclaimer
 This software is created strictly for educational purposes and ethical penetration testing.
 Do not use this tool on any system without explicit written permission.
 
 Unauthorized use may be illegal and could result in criminal charges.
 
-🛡️ Defense & Detection
+## 🛡️ Defense & Detection
 To protect against Remote Access Trojans like this one, consider the following practices:
 
 Antivirus & Endpoint Detection: Use modern antivirus software and EDR (Endpoint Detection & Response) tools that detect suspicious behavior like reverse shells or file exfiltration.
