@@ -1,6 +1,6 @@
 # Remote Access Trojan (RAT)
 
-Remote Access Trojan is a lightweight Remote Access Tool (RAT) built in Python, enabling command-and-control communication between a client and a server over a TCP connection. It allows secure, remote file access, shell command execution, directory browsing, system information retrieval, screenshots, and more. This project is for **educational and authorized use only**.
+Remote Access Trojan is a lightweight (RAT) built in Python, enabling command-and-control communication between a client and a server over a TCP connection. It allows secure, remote file access, shell command execution, directory browsing, system information retrieval, screenshots, and more. This project is for **educational and authorized use only**.
 
 ![Picture of application](https://github.com/user-attachments/assets/9c5068ea-d897-469e-983d-233aaefd8555)
 
@@ -60,3 +60,5 @@ Network Monitoring: Set up IDS/IPS systems to flag unusual or unauthorized TCP c
 Software Restriction Policies: Block script interpreters (e.g., Python) in non-dev environments using Group Policy or AppLocker.
 
 Email Filtering & Sandboxing: Detect and quarantine potential malware before it reaches the user.
+
+> This project was created to better understand remote access threats and how to defend against them. Use it responsibly and ethically.
