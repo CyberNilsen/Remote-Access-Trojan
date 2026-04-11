@@ -48,6 +48,16 @@ pyinstaller --noconsole --onefile client.py
 Make sure PyInstaller is installed:
 pip install pyinstaller
 
+If missing modules run the following:
+
+```
+python -m pip install -r requirements.txt
+
+# or run the following:
+
+pip install -r .\requirements.txt
+```
+
 ---
 
 ## ▶️ Usage
